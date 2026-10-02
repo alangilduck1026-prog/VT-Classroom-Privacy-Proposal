@@ -1,3 +1,21 @@
+## 📢 Read This Before Contributing
+
+I wrote this campaign for the **Virginia Tech Privacy Proposal**. Once this repository is fully complete, consistent, and finalized, I plan to submit and upload our work to campus media platforms such as the *Collegiate Times*. 
+
+Please review the guidelines below to help us refine and collaborate on this proposal:
+* **Additions & Structure:** You are welcome to change, refine, or add headers and subheaders, but please ensure the tone remains compelling, professional, and policy-focused.
+* **Providing Feedback:** For comments and reviews, please use the GitHub interface to point out necessary changes or leave your general feedback.
+* **Active Collaboration:** I strongly encourage you all to work and collaborate together to revise, polish, and utilize the campaign materials.
+* **Working with the Text:** You can easily copy and paste the text from this page into your own local text editor or Word document to test out your changes.
+* **Submitting Your Work:** You are free to edit, but please ensure you upload your finalized, revised edits using the **Pull Request (PR)** method so I can view, review, and merge them into the master document.
+
+The instructions below explain exactly what this campaign stands for, how to get involved, and how to submit your formal feedback!
+
+
+
+
+
+
 # VT-Classroom-Privacy-Proposal
 A strategic policy proposal to enhance classroom privacy and protect faculty intellectual property at Virginia Tech.
 
@@ -56,15 +74,6 @@ You don't need to be a programmer to edit this proposal! If you want to change o
 
 ### 📢 Share with Your Representatives
 If you agree with these policy accommodations, click the **"Star"** button in the top right corner of this page to show your support. If you are part of the Student Government Association (SGA) or Faculty Senate, please bring these points up at your next organizational meeting.
-
-
-
-
-
-
-
-
-
 
 
 
