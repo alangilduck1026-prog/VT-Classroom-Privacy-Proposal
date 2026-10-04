@@ -4,10 +4,15 @@ I wrote this campaign for the Virginia Tech Privacy Proposal. Once this reposito
 Please review the guidelines below to help us refine and collaborate on this proposal:
 
 * **Collaborative Submissions Over Single Line Edits:** Please avoid submitting micro-edits or changing just one sentence at a time. Processing isolated edits from multiple people becomes highly confusing and disorganized. If I update a paragraph, a scattered individual edit might accidentally overwrite or unutilize that progress. To keep the campaign consistent, structured, and accurate, I strongly encourage you all to communicate, work together, and bundle your revisions into complete, polished sections before submitting a single Pull Request.
+  
 * **Additions & Structure:** You are welcome to change, refine, or add headers and subheaders, but please ensure the tone remains compelling, professional, and policy-focused.
+  
 * **Providing Feedback:** For comments, discussions, or reviews, please use the GitHub interface to point out necessary changes or leave your general feedback.
+  
 * **Working with the Text:** You can easily copy and paste the text from this page into your own local text editor or Word document to test out your changes.
+  
 * **Submitting Your Work:** You are free to edit, but please ensure you upload your finalized, consolidated edits using the Pull Request (PR) method so I can view, review, and merge them into the master document.
+  
 * * **Citation Formatting & Refinements:** This proposal contains in-text citations and academic source tracking. If you notice any formatting errors or inconsistencies, please help us standardize them by submitting corrections aligned strictly with the **APA 7th Edition style guide (via Purdue OWL parameters)**.
  
 
@@ -19,10 +24,16 @@ The instructions below explain exactly what this campaign stands for, how to get
 **This campaign is a professional, community-driven policy initiative. I maintain absolute administrative control over this repository, and any malicious or disruptive behavior will be met with an immediate, permanent ban. Please adhere strictly to the following parameters:**
 
 * **No Vandalism or Mass Deletions:** Any user attempting to clear out chunks of text, sabotage the project's layout, or delete the main campaign proposal will be permanently blocked from this organization. All previous versions of this text are securely backed up via GitHub Version Control, and bad-faith changes will be instantly reverted.
+  
 * **Tone & Content Guidelines:** All contributions must maintain a compelling, professional, and objective policy focus. Submitting edits that introduce rude, profane, inappropriate, or toxic language will result in an immediate block.
+  
 * **No Derailing or Changing the Scope:** Do not attempt to rewrite this proposal into a completely different topic or use it as a personal forum. Edits must remain aligned with the core mission of campus privacy and security.
+  
 * * **Mandatory Image Standards (Blur & Source):** If you submit any images or screenshots to visually document facility overcrowding or policy gaps, you must satisfy two strict criteria. First, you must explicitly cite and credit the original creator or platform source in the caption. Second, you must manually blur out the faces of any recognizable students, patrons, or university staff members before uploading. Submissions containing raw, unblurred faces of community members will be instantly rejected to protect campus privacy.
-  * * **Marking Your Work as Complete:** If you have fully completed a set of revisions or additions, ensure you clearly state "COMPLETE" in your Pull Request description or comment log. The Word document contains the original campaign essay, so do not leave a submission open, fragmented, or unfinished; explicitly label it as complete so it can be safely reviewed, verified against the master text, and merged.
+    
+* **Master Source Document:** The original, official campaign essay is maintained in a master Word file titled **`VT_Privacy_Proposal.docx`**. If you are copying, pasting, or testing out structural shifts, please ensure your edits align seamlessly with the exact wording and layout established in that master document.
+  
+* * **Marking Your Work as Complete:** If you have fully completed a set of revisions or additions, ensure you clearly state "COMPLETE" in your Pull Request description or comment log. The Word document contains the original campaign essay, so do not leave a submission open, fragmented, or unfinished; explicitly label it as complete so it can be safely reviewed, verified against the master text, and merged.
 
 
 
