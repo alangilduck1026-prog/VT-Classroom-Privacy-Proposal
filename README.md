@@ -125,6 +125,50 @@ If you agree with these policy accommodations, click the **"Star"** button in th
 
 
 
+# 🗺️ Contributor Guide: How to Collaborate on the VT Privacy Proposal
+
+Thank you for your interest in refining and advancing this campaign! Because this initiative is a professional, community-driven policy proposal, we utilize GitHub's native tools to keep our collaboration organized, secure, and focused. 
+
+You do not need external apps like Discord, Reddit, or GroupMe to collaborate—everything happens right here on this page. Please follow the instructions below based on how you want to participate.
+
+---
+
+## 💬 Option 1: Share Feedback or Suggest Ideas (No Coding Needed)
+If you want to suggest a change, report an unaddressed campus blindspot, or discuss a policy point without directly editing the document, use the **Issues** tab:
+1. Click on the **Issues** tab at the top of this repository page.
+2. Click the green **New Issue** button.
+3. Give your issue a clear title (e.g., *"Suggestion: Add classroom microphone parameters"*).
+4. Write out your thoughts in plain text and click **Submit new issue**.
+5. This opens a public forum thread where the author and other Hokies can reply and discuss your idea.
+
+---
+
+## 🛠️ Option 2: Propose Direct Edits to the Text
+If you want to fix a grammatical error, rephrase a sentence, or add a structured bullet point directly to the proposal, use the **Pull Request (PR)** method:
+1. Navigate back to the main repository page and click on the **`README.md`** file.
+2. In the top-right corner of the file view, click the **Pencil Icon** (*Edit this file*).
+3. Make your text corrections or additions directly in the built-in text editor.
+4. Scroll to the very bottom of the page to find the **Propose changes** box.
+5. Write a short, one-sentence description of what you edited.
+6. Click the green **Propose changes** button. 
+7. On the next screen, click **Create pull request**. This sends your text to the queue for the repository owner to review and merge into the master document.
+
+---
+
+## ⚠️ Mandatory Collaboration Checklist
+Before you hit submit on any issue or edit, ensure you have checked off the following criteria from our strict security warning:
+* [ ] **Is your work complete?** If you are submitting an edit, you must explicitly write the word **"COMPLETE"** in your Pull Request description or comment log. Fragmented or half-finished edits will be rejected.
+* [ ] **Did you check the source?** Ensure your structural adjustments align seamlessly with the wording and layout established in our master Word file, **`VT_Privacy_Proposal.docx`**.
+* [ ] **Are your images safe?** If your edit includes visual documentation of overcrowding, you must credit the source and manually blur out all recognizable student, patron, or staff faces.
+* [ ] **Is the tone professional?** Rude, inappropriate, toxic, or derailing language will result in an immediate and permanent ban from this organization.
+
+---
+
+Thank you for helping us protect student privacy, safeguard faculty intellectual property, and support our campus workers!
+
+
+
+
 
 
 
