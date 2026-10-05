@@ -133,13 +133,20 @@ You do not need external apps like Discord, Reddit, or GroupMe to collaborate—
 
 ---
 
-## 💬 Option 1: Share Feedback or Suggest Ideas (No Coding Needed)
-If you want to suggest a change, report an unaddressed campus blindspot, or discuss a policy point without directly editing the document, use the **Issues** tab:
+## 🌐 Statewide Context: Documenting Issues at UVA and Other Universities
+While this proposal specifically aims to modernize policies at Virginia Tech, we recognize that this is a growing, systemic issue across the state. Students, faculty, and campus workers at the University of Virginia (UVA) and other institutions face identical pressures from intrusive content creators filming inside libraries, dining facilities, and active academic lectures without consent.
+
+**We are actively calling on contributors to provide information, case studies, or firsthand accounts of similar recording disruptions happening at other universities.** Highlighting these cross-campus patterns helps us prove to our administration that this is a widespread higher-education policy gap that requires a proactive solution.
+
+---
+
+## 💬 Option 1: Share Feedback or Campus Evidence (No Coding Needed)
+If you want to suggest a change, report an unaddressed campus blindspot, or **provide details on recording incidents happening at UVA or other universities**, use the **Issues** tab:
 1. Click on the **Issues** tab at the top of this repository page.
 2. Click the green **New Issue** button.
-3. Give your issue a clear title (e.g., *"Suggestion: Add classroom microphone parameters"*).
-4. Write out your thoughts in plain text and click **Submit new issue**.
-5. This opens a public forum thread where the author and other Hokies can reply and discuss your idea.
+3. Give your issue a clear title (e.g., *"Evidence: Lecture recording disruptions observed at UVA"*).
+4. Write out your findings or observations in plain text and click **Submit new issue**.
+5. This opens a public forum thread where the author and other Hokies can review the data.
 
 ---
 
@@ -159,18 +166,12 @@ If you want to fix a grammatical error, rephrase a sentence, or add a structured
 Before you hit submit on any issue or edit, ensure you have checked off the following criteria from our strict security warning:
 * [ ] **Is your work complete?** If you are submitting an edit, you must explicitly write the word **"COMPLETE"** in your Pull Request description or comment log. Fragmented or half-finished edits will be rejected.
 * [ ] **Did you check the source?** Ensure your structural adjustments align seamlessly with the wording and layout established in our master Word file, **`VT_Privacy_Proposal.docx`**.
-* [ ] **Are your images safe?** If your edit includes visual documentation of overcrowding, you must credit the source and manually blur out all recognizable student, patron, or staff faces.
+* [ ] **Are your images safe?** If your edit includes visual documentation of overcrowding or filming disruptions, you must credit the source and manually blur out all recognizable student, patron, or staff faces.
 * [ ] **Is the tone professional?** Rude, inappropriate, toxic, or derailing language will result in an immediate and permanent ban from this organization.
 
 ---
 
-Thank you for helping us protect student privacy, safeguard faculty intellectual property, and support our campus workers!
-
-
-
-
-
-
+Thank you for helping us protect student privacy, safeguard faculty intellectual property, and support our campus workers across the state!
 
 
 
